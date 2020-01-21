@@ -121,3 +121,25 @@ header .title{
     margin: 0 auto;
     /* width: 50%; */
 }
+footer{
+    width: 100%;
+    height: 75px;
+    background-color: #4A4033;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    border: 3px solid white;
+    padding: 20px 5px 20px 5px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+    margin-right: 20px;
+}
+footer .author{
+    border: 3px solid white;
+    margin-left: 40px;
+}
