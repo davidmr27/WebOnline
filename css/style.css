@@ -31,13 +31,13 @@ header .title{
     display: inline;
     float: right;
     text-align: center;
-    /* padding: 35px; */
 }
 .menu li a{
     text-decoration: none;
     display: block;
     color: white;
     padding: 24px;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 .menu li a:hover{
     background-color: black;
