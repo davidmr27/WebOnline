@@ -1,7 +1,9 @@
-*, body{
+*{
+    box-sizing: border-box;
+}
+body{
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
 }
 body{
     background-color: #EEE6E6;
