@@ -76,10 +76,9 @@ header .title{
 .hero .content-image{
     width: 70%;
     height: 100%;
-    background-color: #ffa323;
     border-left: 100px solid #1D2F3B;
     border-bottom: 400px solid transparent;
-    background-image: url(/img/external-content.duckduckgo.com.jpg);
+    background-image: url(/img/hero.jpg);
     background-position: -150px -100px;
     background-size: 1100px;
     background-repeat: no-repeat;
@@ -107,7 +106,7 @@ header .title{
 }
 .conference-description,
 .biography-description{
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Open Sans',sans-serif;
     font-weight: 400;
 }
